@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2015\Projects\Holt-Winters Forecasting\Holt-Winters Forecasting\bin\Debug\Holt-Winters Forecasting.exe.config
+c:\users\david\documents\visual studio 2015\Projects\Holt-Winters Forecasting\Holt-Winters Forecasting\bin\Debug\Holt-Winters Forecasting.exe
+c:\users\david\documents\visual studio 2015\Projects\Holt-Winters Forecasting\Holt-Winters Forecasting\bin\Debug\Holt-Winters Forecasting.pdb
+c:\users\david\documents\visual studio 2015\Projects\Holt-Winters Forecasting\Holt-Winters Forecasting\obj\Debug\Holt-Winters Forecasting.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Holt-Winters Forecasting\Holt-Winters Forecasting\obj\Debug\Holt-Winters Forecasting.exe
+c:\users\david\documents\visual studio 2015\Projects\Holt-Winters Forecasting\Holt-Winters Forecasting\obj\Debug\Holt-Winters Forecasting.pdb
